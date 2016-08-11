@@ -1,10 +1,16 @@
 {
   "meta": {
-    "username": "nationalshowcase2016centralmichigan",
+    "username": "NationalShowcase2016CentralMichigan",
     "repositoryName": "nationalshowcase2016cm.github.io",
-    "branch": "gh-pages"
+    "branch": "master"
   },
+  "site": {
+    "title": "National Showcase 2016 Central Michigan",
+    "description": "",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
