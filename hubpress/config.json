@@ -4,7 +4,12 @@
     "repositoryName": "nationalshowcase2016centralmichigan.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "National Showcase 2016 Central Michigan",
+    "description": ""
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
