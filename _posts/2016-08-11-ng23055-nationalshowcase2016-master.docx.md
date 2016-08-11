@@ -11,7 +11,7 @@ source-id: 1cq23cUgNiYCwuPx-WrcF88pUOVzMU503c76cHjf39Vc
 
 Photos grabbed off of the TV during Kayla's performance
 
-![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_0.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_0.jpg)
 
 ![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_1.jpg)
 
@@ -35,5 +35,6 @@ Photos grabbed off of the TV during Kayla's performance
 
 ![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_11.jpg)
 
-![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_12.jpg)![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_13.jpg)
+![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_12.jpg)
+![image alt text]({{ site.url }}/public/QbQIVV59Uu3mRPlhCsw_img_13.jpg)
 
