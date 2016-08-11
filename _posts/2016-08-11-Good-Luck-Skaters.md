@@ -1,11 +1,12 @@
 ---
 title: Good Luck Skaters
+date: 2016-08-11 00:00:00 Z
+permalink: "/good-luck-skaters/"
 layout: post
 author: 32bpwr3
-permalink: /good-luck-skaters/
 source-id: 1BudJmtQvaealOixYFoxuZCzlnGp4hiiJ9y_XNmcb0Gg
-published: true
 ---
+
 # Good Luck Skaters
 
 ## Mt. Pleasant Figure Skating Club
