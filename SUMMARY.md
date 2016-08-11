@@ -1,6 +1,3 @@
-= Contents
+# Contents
 
-* link:_posts/2016-08-11-On-their-Way.adoc[On their Way]
-
-
-
+* [Kayla's Performance](_posts/2016-08-11-ng23055-nationalshowcase2016-master.docx.md)
