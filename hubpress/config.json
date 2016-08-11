@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "National Showcase 2016 Central Michigan",
-    "description": ""
+    "description": "",
+    "postsPerPage": "5"
   },
   "socialnetwork": {},
   "theme": {
