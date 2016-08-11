@@ -1,4 +1,4 @@
 = Summary
 
-. summary.adoc
+. link:summary[summary.adoc]
 
