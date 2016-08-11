@@ -1,11 +1,11 @@
 ---
 title: ng23055-nationalshowcase2016-master.docx
+permalink: "/ng23055-nationalshowcase2016-master.docx/"
 layout: post
 author: 32bpwr3
-permalink: /ng23055-nationalshowcase2016-master.docx/
 source-id: 1cq23cUgNiYCwuPx-WrcF88pUOVzMU503c76cHjf39Vc
-published: true
 ---
+
 # Kayla's Performance
 
 Photos grabbed off of the TV during Kayla's performance
