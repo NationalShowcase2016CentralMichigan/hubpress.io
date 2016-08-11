@@ -13,28 +13,28 @@ Photos grabbed off of the TV during Kayla's performance
 
 ![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_0.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_1.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_1.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_2.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_2.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_3.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_3.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_4.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_4.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_5.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_5.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_6.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_6.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_7.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_7.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_8.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_8.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_9.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_9.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_10.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_10.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_11.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_11.jpg)
 
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_12.jpg)
-![image alt text](../public/public/QbQIVV59Uu3mRPlhCsw_img_13.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_12.jpg)
+![image alt text](../public/QbQIVV59Uu3mRPlhCsw_img_13.jpg)
 
