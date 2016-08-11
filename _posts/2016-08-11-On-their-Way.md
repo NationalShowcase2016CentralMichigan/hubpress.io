@@ -8,5 +8,5 @@ date: 2016-08-11 00:00:00 Z
 ##Theresa Morgan
 > And we're off! ‪#‎NationalShowcase2016‬
 
-![nationalshowcase007.jpg](images/nationalshowcase007.jpg)
+![nationalshowcase007.jpg](../images/nationalshowcase007.jpg)
 
